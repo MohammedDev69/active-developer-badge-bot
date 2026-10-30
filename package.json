@@ -1,0 +1,23 @@
+{
+  "name": "active-developer-badge-bot",
+  "version": "2.0.0",
+  "description": "An automated Discord bot service to obtain the Active Developer Badge with Slash and Prefix command support.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "active-developer-badge",
+    "badge-bot",
+    "slash-commands",
+    "prefix-commands"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "botToken": "YOUR_DISCORD_BOT_TOKEN_HERE",
+    "botId": "APPLICATION_ID",
+    "botTag": "YourBot#0000",
+    "addedBy": "USER_ID",
+    "addedAt": "2026-01-01T00:00:00.000Z"
+  }
+]
